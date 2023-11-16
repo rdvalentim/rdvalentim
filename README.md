@@ -1,4 +1,4 @@
-[![Header]( "Header")](https://github.com/rdvalentim)
+[![Header](https://github.com/rdvalentim/rdvalentim/blob/main/banner_github.png "Header")](https://github.com/rdvalentim)
 ### Hello! 👋
 
 <!--
