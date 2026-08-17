@@ -1,6 +1,6 @@
 [![Header](https://github.com/rdvalentim/rdvalentim/blob/main/banner_github.png "Header")](https://github.com/rdvalentim)
 ### 👋 Hello! 
-I'am technology enthusiast and a Systems Information student with a passion for challenges and innovation. 🚀
+I'am technology enthusiast with a passion for challenges and innovation. 🚀
 
 ### 🌐 Technologies I work with
 <div style="display: inline_block"><br>
