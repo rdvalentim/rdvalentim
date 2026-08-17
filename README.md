@@ -2,7 +2,7 @@
 ### 👋 Hello! 
 I'am technology enthusiast with a passion for challenges and innovation. 🚀
 
-### 🌐 Technologies I work with
+<!--### 🌐 Technologies I work with
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,4 +13,4 @@ I'am technology enthusiast with a passion for challenges and innovation. 🚀
   <img align="center" alt="PostgresSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 </div>
-<!--
+
